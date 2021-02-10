@@ -1,5 +1,6 @@
 const chai = require('chai');
 const assert = chai.assert;
+//  PAIR PROGRAMMED WITH IBRAHIM KHALILOV
 
 // const wordSearch = require('../wordsearch.js');
 const findWord = require('../wordsearch.js');
