@@ -1,6 +1,6 @@
 const transpose = require('../transpose');
 
-
+//  PAIR PROGRAMMED WITH IBRAHIM KHALILOV
 // const findWord = (letters, word) => {
 //   const verticalJoin = letters.map(ls => ls.join(''));
 //   for (l of verticalJoin) {
