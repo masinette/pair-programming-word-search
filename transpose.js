@@ -13,6 +13,7 @@ const transpose = function(matrix) {
   return arr;
 };
 
+//  PAIR PROGRAMMED WITH IBRAHIM KHALILOV
 
 // Do not edit this function.
 // const printMatrix = (matrix) => {
